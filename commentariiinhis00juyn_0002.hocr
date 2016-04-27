@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariiinhis00juyn_0002.png"; bbox 0 0 2382 2976; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2364 0 2382 1326">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2364 0 2382 1326">
+     <span class='ocr_line' id='line_1_1' title="bbox 2364 0 2382 1326; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2364 0 2382 1326; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 617 1340 1770 1635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 617 1340 1770 1635">
+     <span class='ocr_line' id='line_1_2' title="bbox 617 1340 1770 1419; baseline 0.002 -18"><span class='ocrx_word' id='word_1_2' title='bbox 617 1340 921 1419; x_wconf 64' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_3' title='bbox 954 1340 1034 1419; x_wconf 83' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_4' title='bbox 1061 1340 1170 1403; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_5' title='bbox 1206 1340 1475 1403; x_wconf 70' lang='lat' dir='ltr'>Internet</span> <span class='ocrx_word' id='word_1_6' title='bbox 1501 1340 1770 1403; x_wconf 68' lang='lat' dir='ltr'><strong>Archiv&amp;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 735 1448 1647 1527; baseline 0 -18"><span class='ocrx_word' id='word_1_7' title='bbox 735 1448 788 1509; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_8' title='bbox 820 1451 996 1511; x_wconf 83' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_9' title='bbox 1025 1448 1165 1511; x_wconf 75' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1195 1448 1459 1527; x_wconf 70' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_11' title='bbox 1489 1448 1647 1511; x_wconf 79' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 822 1556 1565 1635; baseline 0 -16"><span class='ocrx_word' id='word_1_12' title='bbox 822 1556 1175 1635; x_wconf 79' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_13' title='bbox 1204 1556 1268 1619; x_wconf 82' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_14' title='bbox 1294 1556 1565 1619; x_wconf 78' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2379 1322 2382 2144">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2379 1322 2382 2144">
+     <span class='ocr_line' id='line_1_5' title="bbox 2379 1322 2382 2144; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 2379 1322 2382 2144; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2376 1456 2381 2144">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2376 1456 2381 2144">
+     <span class='ocr_line' id='line_1_6' title="bbox 2376 1456 2381 2144; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 2376 1456 2381 2144; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 216 2717 2168 2796">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 216 2717 2168 2796">
+     <span class='ocr_line' id='line_1_7' title="bbox 216 2717 2168 2796; baseline 0 -18"><span class='ocrx_word' id='word_1_17' title='bbox 216 2717 2168 2796; x_wconf 64' lang='lat' dir='ltr'>http:llwwwarchive.0r9ldetailslcommentariiinhisOOjUyn</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
